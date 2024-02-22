@@ -46,6 +46,8 @@
   "terminal.integrated.fontSize": 12,
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.stickyScroll.enabled": true,
+  "terminal.integrated.mouseWheelZoom": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "auto",
   //// vscodevim extension settings
   "vim.useSystemClipboard": true,
   "vim.insertModeKeyBindingsNonRecursive": [
@@ -143,6 +145,7 @@
     }
   ],
   //// markdown settings
+  "markdown.editor.pasteUrlAsFormattedLink.enabled": "always",
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.quickSuggestions": {
