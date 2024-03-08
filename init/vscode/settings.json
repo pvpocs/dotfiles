@@ -145,14 +145,15 @@
     }
   ],
   //// markdown settings
-  "markdown.editor.pasteUrlAsFormattedLink.enabled": "always",
+  "markdown.editor.pasteUrlAsFormattedLink.enabled": "smartWithSelection",
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.quickSuggestions": {
       "other": true,
       "comments": false,
       "strings": true
-    }
+    },
+    "editor.stickyScroll.enabled": true,
   },
   //// python settings
   "[python]": {
