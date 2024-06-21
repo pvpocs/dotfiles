@@ -2,7 +2,7 @@
   //// workbench
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Monokai",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
   "workbench.layoutControl.enabled": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.editor.centeredLayoutAutoResize": false,
