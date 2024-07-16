@@ -2,7 +2,7 @@
   //// workbench
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Monokai",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
   "workbench.layoutControl.enabled": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.editor.centeredLayoutAutoResize": false,
@@ -190,14 +190,18 @@
     "markdown": true,
     "scminput": false
   },
+  "github.copilot.editor.enableAutoCompletions": true,
   //// files
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
+  //// git
+  "git.openRepositoryInParentFolders": "always",
+  "git.autofetch": true,
+  "git.decorations.enabled": true,
   //// other settings
   "breadcrumbs.enabled": true,
-  "git.openRepositoryInParentFolders": "always",
   "extensions.ignoreRecommendations": true,
-  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.ignoreTrimWhitespace": false
 }
