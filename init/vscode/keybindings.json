@@ -360,5 +360,13 @@
     "key": "ctrl+j shift+c",
     "command": "list.collapseAll",
     "when": "listFocus && !inputFocus && !treestickyScrollFocused"
+  },
+  {
+    "key": "ctrl+j k",
+    "command": "workbench.action.showAllSymbols"
+  },
+  {
+    "key": "ctrl+j ctrl+k",
+    "command": "workbench.action.showAllSymbols"
   }
 ]
