@@ -38,6 +38,7 @@
   "editor.formatOnSave": true,
   "editor.multiDocumentOccurrencesHighlight": true,
   "editor.occurrencesHighlight": "multiFile",
+  "editor.stickyScroll.enabled": false,
   //// explorer
   "explorer.openEditors.visible": 0,
   //// debug
