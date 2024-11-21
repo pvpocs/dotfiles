@@ -155,6 +155,7 @@
       "strings": true
     },
     "editor.stickyScroll.enabled": true,
+    "files.trimTrailingWhitespace": false
   },
   //// python settings
   "[python]": {
@@ -205,5 +206,6 @@
   //// other settings
   "breadcrumbs.enabled": true,
   "extensions.ignoreRecommendations": true,
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.hideUnchangedRegions.enabled": false
 }
